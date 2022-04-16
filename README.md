@@ -1,5 +1,5 @@
 # python-hangman
-An hangman made with tkinter
+A hangman made with tkinter
 
 
 ## 2 types of play
